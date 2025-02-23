@@ -1,6 +1,6 @@
 # BionicBiometrics
 
-This is Bionic Biometrics App.
+A new Flutter project.
 
 ## Getting Started
 
