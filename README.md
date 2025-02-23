@@ -1,2 +1,2 @@
-# Bionic-Biometrics
+# Bionic-Biometrics-App
 Bionic Biometrics App
